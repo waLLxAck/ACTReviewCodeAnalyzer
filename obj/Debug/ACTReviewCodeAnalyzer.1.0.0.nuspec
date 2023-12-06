@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ACTReviewCodeAnalyzer</id>
+    <version>1.0.0</version>
+    <authors>Svilen Petrov</authors>
+    <description>Helps in analyzing code for the ACT code review process</description>
+    <tags>roslyn analyzers csharp</tags>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="4.8.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.Common" version="4.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

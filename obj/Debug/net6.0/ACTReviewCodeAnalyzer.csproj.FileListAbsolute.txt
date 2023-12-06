@@ -1,0 +1,12 @@
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\bin\Debug\net6.0\ACTReviewCodeAnalyzer.deps.json
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\bin\Debug\net6.0\ACTReviewCodeAnalyzer.dll
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\bin\Debug\net6.0\ACTReviewCodeAnalyzer.pdb
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.AssemblyInfo.cs
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.dll
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\refint\ACTReviewCodeAnalyzer.dll
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ACTReviewCodeAnalyzer.pdb
+C:\Users\svile\Desktop\github-repos\ACTReviewCodeAnalyzer\obj\Debug\net6.0\ref\ACTReviewCodeAnalyzer.dll
